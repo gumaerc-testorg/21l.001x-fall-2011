@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 33372936-318f-5fd1-ac97-f40ede36b494
 title: Advice on Writing
 uid: 5315e1fd-6fd3-57cf-e851-773d1e3e3d92
