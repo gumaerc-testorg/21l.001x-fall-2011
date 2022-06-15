@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provide guidelines on essay writing and information on the
+  writing assignments of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: 33372936-318f-5fd1-ac97-f40ede36b494
 ---
 
-[Advice on Writing]({{< baseurl >}}/pages/assignments/advice-on-writing)
+{{% resource_link 5315e1fd-6fd3-57cf-e851-773d1e3e3d92 "Advice on Writing" %}}
 ------------------------------------------------------------------------
 
 Guidelines for Essay Writing
