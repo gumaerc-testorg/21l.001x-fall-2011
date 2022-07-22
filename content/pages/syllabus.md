@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, class
+  rules, assignments, grading, and the schedule of lecture topics and assignment due
+  dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 960619ba-8607-0b41-edac-e5d5106f449a
 ---
