@@ -20,7 +20,7 @@ Leitch, Vincent B., William E. Cain et al., eds. _The Norton Anthology of Theory
 
 Aeschylus. _The Oresteia_. Edited by W. B. Stanford. Translated by Robert Fagles. Penguin Classics, 1984. ISBN: 9780140443332.
 
-Sophocles. _Oedipus the King_. Translated by Stephen Berg and Diskin Clay. Oxford World's Classics, 1988. ISBN: 9780195054934. \[Preview with [Google Books](http://books.google.coM/books?id=3VoqYA-oH98C&pg=PAfrontcover#v=onepage)\]
+Sophocles. _Oedipus the King_. Translated by Stephen Berg and Diskin Clay. Oxford World's Classics, 1988. ISBN: 9780195054934. \[Preview with {{% resource_link "60a1167b-5986-4973-bbdb-e1d96b49ad37" "Google Books" %}}\]
 
  Coogan, Michael D., Marc Z. Brettler et al., eds. _The New Oxford Annotated Bible with Apocrypha_. Oxford University Press, 2010. ISBN: 9780195289558.
 
