@@ -77,7 +77,7 @@ Class participation (including oral presentation)
 MIT Statement on Plagiarism
 ---------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "fffb2b25-5da1-44cc-b299-b2fe2ce937ee" "Writing and Communication Center" %}} and the {{% resource_link "e2e96432-c113-4948-9390-ca0fa896cfbc" "MIT Web site on Plagiarism" %}}.
 
 Calendar
 --------
@@ -175,7 +175,7 @@ _The Odyssey_, Books 18, 19, 24
 7
 {{< tdclose >}}
 {{< tdopen >}}
-_The Republic_, Chapter 4 \[Preview with [Google Books](http://books.google.com/books?id=1H7gvzj5_CEC&pg=PAfrontcover#v=onepage)\]
+_The Republic_, Chapter 4 \[Preview with {{% resource_link "cc97c3f3-9c17-4aee-9926-e81198b65125" "Google Books" %}}\]
 {{< tdclose >}}
 {{< tdopen >}}
  
